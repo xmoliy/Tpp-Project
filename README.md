@@ -9,7 +9,7 @@
 - OS:MacOS
 - IDE:Pycharm 2018.3
 - Python:3.6
-- Flask:2.0.5
+- Flask:1.0.2
 - Mysql:5.7.21
 
 ---
