@@ -17,9 +17,9 @@
 - Flask_Restful-实现Restful风格的API编程
 - Flask-Paginate-实现分页功能
 - Flask-SQLAlchemy-实现数据库操作
-- flask_cache-配合redis非关系型数据库实现分布式缓存机制
-- flask_mail-实现发送邮件操作
-- flask_migrate-拓展数据库表结构
+- Flask_Cache-配合redis非关系型数据库实现分布式缓存机制
+- Flask_Mail-实现发送邮件操作
+- Flask_Migrate-拓展数据库表结构
 
 ---
 ## 运行环境
