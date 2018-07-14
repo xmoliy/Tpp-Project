@@ -2,7 +2,7 @@
 
 ---
 
-基于Flask的restful风格编程实现的仿淘票票项目
+基于Flask的restful风格编程实现的仿淘票票项目 beta1.0
 
 ### #环境
 
